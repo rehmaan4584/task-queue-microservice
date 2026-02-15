@@ -21,8 +21,6 @@ A production-ready distributed job queue system built with **BullMQ**, **Redis**
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/bullmq-redis-nestjs-queue-system.git
-cd bullmq-redis-nestjs-queue-system
 ```
 
 2. **Install dependencies**
